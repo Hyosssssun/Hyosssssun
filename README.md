@@ -40,7 +40,8 @@ I am a Full Stack developer, seeking to grow further in a professional environme
 - 💅 I love making my nail pretty<br>
 
 <br>
-<br>
+
+##
 
 ### <b>`Tech Stack`</b>
 
