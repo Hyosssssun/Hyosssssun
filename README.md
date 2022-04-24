@@ -22,9 +22,10 @@ I am a Full Stack developer, seeking to grow further in a professional environme
 
 <br>
 
+##
 
 
-## <b>`About Hyosun`</b>
+### <b>`About Hyosun`</b>
 
 - 📖 I studied Japanese language and litereture at uni in Korea<br>
 - ✈️ I worked in Japan for 3 years<br>
@@ -41,9 +42,9 @@ I am a Full Stack developer, seeking to grow further in a professional environme
 <br>
 <br>
 
-## <b>`Tech Stack`</b>
+### <b>`Tech Stack`</b>
 
-###  <b>Plan</b> 
+####  <b>Plan</b> 
 
   <div id="plan">
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="25" />
@@ -54,7 +55,7 @@ I am a Full Stack developer, seeking to grow further in a professional environme
     </div>
 
 
-###  <b>Develop</b>
+####  <b>Develop</b>
 
  <div id="develop">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="25"/>
@@ -75,7 +76,7 @@ I am a Full Stack developer, seeking to grow further in a professional environme
   </div>
 
   
-###  <b>Test</b>
+####  <b>Test</b>
 
   <div id="test">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" height="25" />
@@ -86,7 +87,7 @@ I am a Full Stack developer, seeking to grow further in a professional environme
   </div>
 
     
-###  <b>Deploy</b>
+####  <b>Deploy</b>
 
   <div id="deploy">
     <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" height="25" />
@@ -94,7 +95,7 @@ I am a Full Stack developer, seeking to grow further in a professional environme
   </div>
 
 
-###  <b>Comming soon!<b>
+####  <b>Comming soon!<b>
   
 <div>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="25" />
