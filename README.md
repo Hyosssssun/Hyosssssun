@@ -10,13 +10,13 @@ I am a Full Stack developer, seeking to grow further in a professional environme
 
 <div id="contact" align="center">
   <a href="https://www.linkedin.com/in/hyosun-lee/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=face&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-007576?style=for-the-badge&logo=face&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:hyosssssun@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=face&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-DAE34A?style=for-the-badge&logo=face&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://www.hyosunlee.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=face&logoColor=blue" alt="portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-FE6302?style=for-the-badge&logo=face&logoColor=blue" alt="portfolio Badge"/>
   </a>
 </div>
 
