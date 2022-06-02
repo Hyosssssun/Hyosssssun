@@ -3,7 +3,7 @@
 
   <img src="https://media.giphy.com/media/jz7nZTW5oEBZAAZ4ge/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/Q5Qt0TOp7eippwBMIg/giphy.gif" width="100"/>
-  <p><b>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Hyosun, you can call me Sunny</b><br>
+  <p><b>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/> I'm Hyosun, you can call me Sunny</b><br>
   Originally from South Korea and it has been 4 years since I moved to England.<br>
 I am a Full Stack developer, seeking to grow further in a professional environment!</p>
 </div>
