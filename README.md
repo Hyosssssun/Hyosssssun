@@ -31,7 +31,7 @@ I am a Full Stack developer, seeking to grow further in a professional environme
 - ✈️ I worked in Japan for 3 years<br>
 - 🗣️ I speak Korean, English, Japanese<br>
 - 🧑‍🎓 I recently graduated bootcamp of The School Of Code<br>
-- 🖥️ I am working on 'travel itinerary app' with MK team in Codecademy<br>
+- 🖥️ I just finished my React Native project and I'm currently working on 'todolist' with [Sandra Skolarczyk](https://github.com/sandiskolarczyk) <br>
 - 🍜 I love food (SUNNY DOESN'T SHARE FOOD!!!!!)<br>
 - 📺 I love Friends as you can see ☝️ <br>
 - 🎤 I love Yungblud and BTS (I know they are so different but I love both)<br>
@@ -62,6 +62,7 @@ I am a Full Stack developer, seeking to grow further in a professional environme
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="25"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" height="25" />
       <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass" height="25" />
+      <img src="https://img.shields.io/badge/Tailwind-36B4A9?style=for-the-badge&logo=TailwindCSS&logoColor=white" alt="Tailwind" height="25" />
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="25" />
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="25" />
       <br>
