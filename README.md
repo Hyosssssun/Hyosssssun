@@ -31,7 +31,7 @@ I am a Full Stack developer, seeking to grow further in a professional environme
 - ✈️ I worked in Japan for 3 years<br>
 - 🗣️ I speak Korean, English, Japanese<br>
 - 🧑‍🎓 I recently graduated bootcamp of The School Of Code<br>
-- 🐦 I am currently working at @birdiecare as an intern software engineer<br>
+- 🐦 I am currently working at Birdie as an intern software engineer<br>
 - 🍜 I love food (SUNNY DOESN'T SHARE FOOD!!!!!)<br>
 - 📺 I love Friends as you can see ☝️ <br>
 - 🎤 I love Yungblud and BTS (I know they are so different but I love both)<br>
