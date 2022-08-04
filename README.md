@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/Q5Qt0TOp7eippwBMIg/giphy.gif" width="100"/>
   <p><b>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/> I'm Hyosun, you can call me Sunny</b><br>
   Originally from South Korea and it has been 4 years since I moved to England.<br>
-I am a Full Stack developer, seeking to grow further in a professional environment!</p>
+Currently working at Birdie as a Software Engineer Intern!</p>
 </div>
 
 <div id="contact" align="center">
