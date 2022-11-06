@@ -70,11 +70,12 @@ Currently working at Birdie as a Software Engineer Intern!</p>
       <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react-native" height="25" />
       <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router" height="25" />
       <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" height="25" />
-      <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="framer" height="25" />
+      <img src="https://img.shields.io/badge/remix-%23000000.svg?style=for-the-badge&logo=remix&logoColor=white" alt="remix" height="25" />
       <br>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodeJS" height="25" />
       <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="25" />
       <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express" height="25" />
+      <img src="https://img.shields.io/badge/Nest.js-%23000000.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestJS" height="25" />
       <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgreSQL" height="25" />
     </div>
 
