@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/Q5Qt0TOp7eippwBMIg/giphy.gif" width="100"/>
   <p><b>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/> I'm Hyosun, you can call me Sunny</b><br>
   Originally from South Korea and it has been 4 years since I moved to England.<br>
-Currently working at Birdie as a Software Engineer Intern!</p>
+Currently working at Birdie as an Associate Software Engineer!</p>
 </div>
 
 <div id="contact" align="center">
@@ -30,8 +30,8 @@ Currently working at Birdie as a Software Engineer Intern!</p>
 - 📖 I studied Japanese language and litereture at uni in Korea<br>
 - ✈️ I worked in Japan for 3 years<br>
 - 🗣️ I speak Korean, English, Japanese<br>
-- 🧑‍🎓 I recently graduated bootcamp of The School Of Code<br>
-- 🐦 I am currently working at Birdie as an intern software engineer<br>
+- 🧑‍🎓 I graduated bootcamp of The School Of Code<br>
+- 🐦 I am currently working at Birdie as an Associate software engineer<br>
 - 🍜 I love food (SUNNY DOESN'T SHARE FOOD!!!!!)<br>
 - 📺 I love Friends as you can see ☝️ <br>
 - 🎤 I love Yungblud and BTS (I know they are so different but I love both)<br>
