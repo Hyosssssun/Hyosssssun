@@ -15,9 +15,9 @@ Currently working at Birdie as an Associate Software Engineer!</p>
   <a href="mailto:hyosssssun@gmail.com">
     <img src="https://img.shields.io/badge/Email-DAE34A?style=for-the-badge&logo=face&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://www.hyosunlee.com/" target="_blank">
+<!--   <a href="https://www.hyosunlee.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FE6302?style=for-the-badge&logo=face&logoColor=blue" alt="portfolio Badge"/>
-  </a>
+  </a> -->
 </div>
 
 <br>
