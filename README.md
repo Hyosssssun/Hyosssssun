@@ -20,6 +20,8 @@ Currently working at Birdie as an Associate Software Engineer!</p>
   </a> -->
 </div>
 
+
+<!--
 <br>
 
 ##
@@ -38,6 +40,9 @@ Currently working at Birdie as an Associate Software Engineer!</p>
 - 🎲 I love playing board-game, recently I am playing wingspan<br>
 - 🎸 I love playing instruments(doens't mean I am great at) like piano and ukulele!<br>
 - 💅 I love making my nail pretty<br>
+
+-->
+
 <!--
 <br>
 
